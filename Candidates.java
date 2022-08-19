@@ -39,7 +39,7 @@ public class Candidates {
 	   }
 	   mc.keySet().forEach(c -> System.out.println(mc.get(c)));
 	   
-	   /* mc.keySet().forEach(c -> System.out.println(mc.get(c).getAge())); */
+	   // mc.keySet().forEach(c -> System.out.println(mc.get(c).getAge())); 
 	}
 }
 class CDetails {
